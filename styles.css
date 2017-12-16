@@ -1,0 +1,122 @@
+body, html{
+	background-color: black;
+}
+
+h1{
+	color: skyblue;
+	font-size: 200%;
+	text-align: left;
+
+}
+h2{
+	color: skyblue;
+	/*font-family: 'Lobster', cursive;*/
+}
+
+h3{
+	color: skyblue;
+
+}
+ .heading{
+  display: flex;	
+  justify-content: space-between;
+
+ }
+.title{
+	font-family: 'Lobster', cursive;
+	text-align: left;
+	font-size: 150%;
+ 
+ }
+.image1{
+	width: 100%;
+	height: 100%;
+    filter:grayscale(50%);
+  /*  background-size: cover;*/
+
+
+
+   
+ }
+
+
+
+ .background{
+	width: 100%;
+	height: 100%;
+	style="font-family:verdana;
+ }
+ .backgroundDescrip{
+	width: 100%;
+	height: 100%;
+	style="font-family:verdana;
+	color: (197, 198, 199);
+ }
+ .interest{
+	width: 100%;
+	height: 100%;
+    style="font-family:verdana;
+ }
+ .interestDescrip{
+	width: 100%;
+	height: 100%;
+	style="font-family:verdana;
+	color: (197, 198, 199);
+ }
+ .funfacts{
+ 	style="font-family:verdana;
+ }
+ .funfactsDescrip{
+ 	style="font-family:verdana;
+ 	color: (197, 198, 199);
+ }
+ .myName{
+ 	style="font-family:verdana;
+ }
+ div p{
+ 	color: #C5C6C7;
+ }
+ div ul{
+ 	color: #C5C6C7;
+ }
+
+
+
+
+.topnav {
+    background-color: black;
+    overflow: hidden;
+
+    /*display: flex;
+    justify-content: space-around;*/
+}
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    color: skyblue;
+    text-align: center;
+    padding: 30px 30px;
+    text-decoration: none;
+    font-size: 200%;
+    font-family: 'Lobster', cursive;
+
+}
+
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: #ddd;
+    color: white;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+
+
+/*<div style="font-family:Monotype Corsiva, Times, Serif; background-color:#74b3bc; height:46px; minSize=10;maxSize=100;">*/
+
+
+
